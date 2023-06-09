@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(250deg,aqua,red);
+
+ }
+ header{
+background-color:black;
+color: aliceblue;
+padding:10px;
+}
+.header .logo img{
+height: 6rem;
+
+}
+nav ul li{
+display:inline;
+padding: 20px;
+
+
+}
+
+.home{
+min-height: 130vh;
+display: flex;
+align-items: center;
+background:url(./asserts/hotel1.jpg) no-repeat;
+background-size: cover;
+background-position: center;
+}
+
+
+nav ul li a{
+color:rgb(244,181,100);
+text-decoration: none;
+}
+
+section{
+color:rgb(6, 6, 6)
+}    
+img{
+height:200px;
+width:200px;
+border-radius: 50%;
+}
+.h1{
+background-color: black;
+}
+
